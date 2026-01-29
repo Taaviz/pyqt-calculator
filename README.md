@@ -49,7 +49,7 @@ You need to have the following tools installed on your computer:
 ### Intallation & Run💻
 ```
 # Clone the repository
-$ git clone <repo>
+$ git clone https://github.com/Taaviz/pyqt-calculator.git
 
 
 # Access the project folder 
