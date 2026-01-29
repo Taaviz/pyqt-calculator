@@ -44,9 +44,9 @@ Follow these instructions to run
 You need to have the following tools installed on your computer:
 - [Python 3.x](https://www.python.org/)
 - [Git](https://git-scm.com/)
-- [VSCode](https://code.visualstudio.com/)
+- *[VSCode](https://code.visualstudio.com/) - If you want to analyze or modify the code.*
 
-### Intallation & Run💻
+### Installation & Run💻
 ```
 # Clone the repository
 $ git clone https://github.com/Taaviz/pyqt-calculator.git
