@@ -53,7 +53,7 @@ $ git clone https://github.com/Taaviz/pyqt-calculator.git
 
 
 # Access the project folder 
-$ cd calculadora
+$ cd pyqt-calculator
 
 
 # Create and Activate Virtual Environment 
