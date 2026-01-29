@@ -2,7 +2,10 @@
 
 A Python-based GUI Calculator built with PyQt5. Features a dynamic/responsive layout, basic arithmetic operations, and error handling.
 
-![App Demonstration](assets/calcpresentation.gif)
+<div align="center">
+  <br />
+  <img src="assets/calcpresentation.gif" alt="App Demonstration" width="600">
+</div>
 
 # Learning Goals 📖
 
