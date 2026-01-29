@@ -82,3 +82,6 @@ $ python src/main.py
 
 # Author ✍🏻
 Developed by [Luis Otávio](https://www.linkedin.com/in/luisotavio2905/)🧑🏻‍💻
+
+# Credits 🎨
+UI design inspired by [ymera](https://dribbble.com/ymera) on Dribbble 
